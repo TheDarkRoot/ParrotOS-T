@@ -32,6 +32,7 @@ W="\033[0;1m"   # White
 R="\033[31;1m"  # Red
 C="\033[36;1m"  # Cyan
 M="\033[35;1m"  # Magenta
+clear;
 #Terpack Banner
 echo -e "\n$CC #######$YY ##################$CC #######$YY ####################
 $CC    #    #####  #####          #     ####   ####  #
@@ -52,6 +53,10 @@ $GG |$YY [$CC=$YY]$WW Telegram $CC:$WW @TheDarkRoot (t.me/TheDarkRoot)$GG      |
 $GG |$YY [$CC=$YY]$WW Team     $CC:$WW TurkHackTeam (www.turkhackteam.org)$GG  |
 $GG 0{===================================================}0\n"
 #Termux Key Update
+echo -e "$CC [$YY*$CC]$GG Pkg installing...";
+( pkg install git -y;pkg install ruby -y;pkg install cowsay -y;pkg install figlet;pkg install toilet -y;pkg install wget -y;pkg install curl -y;pkg install vim -y; ) &> /dev/null & spin;
+echo -e "$CC [$YY*$CC]$GG Pip installing...";
+( gem install lolcat ) &> /dev/null & spin;
 echo -e "$CC [$YY*$CC]$GG ParrotOS theme updating...";
 ( cd /data/data/com.termux/files/usr/etc/;curl https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Software%20Files/ParrotOS.termux -o bash.bashrc;cd ~/;termux-reload-settings; ) &> /dev/null & spin;
 echo -e "$CC [$YY*$CC]$GG Update successful.\n"
