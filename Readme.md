@@ -26,11 +26,7 @@ The author of this project is not responsible for any possible harm caused by th
 
 > ***Open the terminal and type following commands.***
 ```
-$ pkg install git
-$ git clone https://github.com/TheDarkRoot/ParrotOS-T.git
-$ cd ParrotOS-T
-$ chmod +x ParrotOS-T.sh
-$ bash ParrotOS-T.sh
+$ curl https://raw.githubusercontent.com/TheDarkRoot/ParrotOS-T/main/ParrotOS-T.sh -o ParrotOS-T.sh;chmod +x ParrotOS-T.sh;bash ParrotOS-T.sh
 ```
 
 # Screenshot
