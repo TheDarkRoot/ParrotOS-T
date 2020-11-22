@@ -32,4 +32,5 @@ $ curl https://raw.githubusercontent.com/TheDarkRoot/ParrotOS-T/main/ParrotOS-T.
 # Screenshot
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2001.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2001.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2002.png" width=500>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2002.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2002.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2002.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2003.png" width=500>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS%2003.png)
