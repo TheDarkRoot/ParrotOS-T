@@ -33,4 +33,5 @@ $ curl https://raw.githubusercontent.com/TheDarkRoot/ParrotOS-T/main/ParrotOS-T.
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2001.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2001.png)
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2002.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2002.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2003.png" width=500>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2003.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2003.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2003.png)
+  [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2004.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/ParrotOS-T%2004.png)
