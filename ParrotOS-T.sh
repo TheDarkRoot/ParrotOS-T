@@ -53,10 +53,10 @@ $GG |$YY [$CC=$YY]$WW Telegram $CC:$WW @TheDarkRoot (t.me/TheDarkRoot)$GG      |
 $GG |$YY [$CC=$YY]$WW Team     $CC:$WW TurkHackTeam (www.turkhackteam.org)$GG  |
 $GG 0{===================================================}0\n"
 #Termux Key Update
-echo -e "$CC [$YY*$CC]$GG Pkg installing...";
-( pkg install git -y;pkg install ruby -y;pkg install cowsay -y;pkg install figlet;pkg install toilet -y;pkg install wget -y;pkg install curl -y;pkg install vim -y; ) &> /dev/null & spin;
-echo -e "$CC [$YY*$CC]$GG Pip installing...";
+echo -e "$CC [$YY*$CC]$GG Packages Installing...";
+( pkg install git ruby cowsay figlet toilet wget curl vim -y; ) &> /dev/null & spin;
+echo -e "$CC [$YY*$CC]$GG Tools Installing...";
 ( gem install lolcat ) &> /dev/null & spin;
-echo -e "$CC [$YY*$CC]$GG ParrotOS theme updating...";
+echo -e "$CC [$YY*$CC]$GG ParrotOS Theme Updating...";
 ( cd /data/data/com.termux/files/usr/etc/;curl https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Software%20Files/ParrotOS.termux -o bash.bashrc;cd ~/;termux-reload-settings; ) &> /dev/null & spin;
-echo -e "$CC [$YY*$CC]$GG Update successful.\n"
+echo -e "$CC [$YY*$CC]$GG Update Successful.\n"
